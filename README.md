@@ -1,0 +1,2 @@
+# cantina
+Das Bildungszentrum Zürichsee ist eine Berufsfachschule mit drei Standorten: Horgen Oberdorf (BZZO), Horgen Zentrum (BZZH) und Stäfa (BZZS). Sie hat grundsätzlich drei Abteilungen: Grundbildung, Wirtschaft und Weiterbildung. Ab 2020 soll die bestehenden zwei Standorte BZZH und BZZO in den Neubau, das auf dem Gelände des aktuellen BZZHs entstehen soll, umziehen. Das neue Gebäude soll neben einer neuen ICT-Infrastruktur auch eine Cantina erhalten, in der Lernenden wie auch Dozenten sich verpflegen können.
